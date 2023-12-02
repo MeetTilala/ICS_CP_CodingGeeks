@@ -1,5 +1,5 @@
 # ICS_CP_CodingGeeks
-Group Members : Advaith Moholakar, Debjit Ghorai, Meet Tilala, Kunal
+Group Members : Meet Tilala, Advaith Moholakar, Debjit Ghorai, Kunal
 
 We have created an Area Calculator program which worksin C language. It provides you a pathway to calculate area of (n+9) shapes. Ranging from n-sided regular polygon to numerous shapes, we have a one-stop solution for calculating the area of various known shapes which are common in our day-to-day to life.
 
